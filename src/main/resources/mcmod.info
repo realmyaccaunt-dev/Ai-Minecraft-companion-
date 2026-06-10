@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aicompanion",
+  "name": "AI Companion",
+  "description": "AI Bot Companion powered by OpenAI - Your RP buddy for adventures!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "authors": ["realmyaccount-dev"],
+  "credits": "AI Companion Team",
+  "url": "https://github.com/realmyaccaunt-dev/Ai-Minecraft-companion-",
+  "updateUrl": "",
+  "authorUrl": "https://github.com/realmyaccaunt-dev",
+  "displayTestConfig": "MATCH_VERSION"
+}
+]
