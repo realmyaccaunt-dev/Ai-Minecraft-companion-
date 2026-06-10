@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+*.jar
+*.zip
+
+# IDE
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Minecraft
+run/
+crash-reports/
+
+# Eclipse
+bin/
+.metadata/
+
+# API Keys
+config/
+*.key
+*.env
